@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/crispy-spoon/MissLaylaRobot/blob/master/FallenRobot/resources/fglitch.gif">
+  <img src="https://te.legra.ph/file/a46359a1c312a7ec7ffaf.jpg">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Mɪss Lᴀʏʟᴀ Rᴏʙᴏᴛ](https://t.me/MissLayla_Robot)**_
