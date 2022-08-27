@@ -792,7 +792,7 @@ def main():
 ㅤ๏ **ᴩʏʀᴏɢʀᴀᴍ :** `{pyrover}`
 ━━━━━━━━━━━━━
 
-ᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ [Aɴᴍᴏʟ](https://t.me/{OWNER_USERNAME})""",
+ᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ [🇭𝗘𝗥𝗢𝗜𝗖 - 🇽](https://t.me/{OWNER_USERNAME})""",
                 parse_mode=ParseMode.MARKDOWN,
             )
         except Unauthorized:
