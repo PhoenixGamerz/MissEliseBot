@@ -12,14 +12,14 @@ from FallenRobot import telethn as tbot, SUPPORT_CHAT, OWNER_USERNAME, dispatche
 
 PHOTO = [
     "https://telegra.ph/file/6a21ea6677342f43b363e.jpg",
-    "https://te.legra.ph/file/61db7dee8ad925e79678f.jpg",
+    "https://te.legra.ph/file/4bd77f0b39cbf640ce685.jpg",
 ]
 
 
 @register(pattern=("/alive"))
 async def awake(event):
     TEXT = f"**ʜᴇʏ​ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ {dispatcher.bot.first_name}**\n━━━━━━━━━━━━━━━━━━━\n\n"
-    TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [🇭𝗘𝗥𝗢𝗜𝗖 - 🇽](https://t.me/{OWNER_USERNAME})** \n\n"
+    TEXT += f"» **ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ​ : [ᴀsʜᴍɪᴛ](https://t.me/{OWNER_USERNAME})** \n\n"
     TEXT += f"» **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{telever}` \n\n"
     TEXT += f"» **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tlhver}` \n\n"
     TEXT += f"» **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pyrover}` \n━━━━━━━━━━━━━━━━━\n\n"
