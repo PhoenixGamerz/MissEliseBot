@@ -48,7 +48,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Elise](https://t.me
 <a href="https://telegram.me/ElisexSupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/Ashmit4029"><img src="https://img.shields.io/badge/%20DARKSHADOW-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Ashmit4029"><img src="https://img.shields.io/badge/%20ASHMIT-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
