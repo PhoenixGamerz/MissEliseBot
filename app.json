@@ -1,7 +1,7 @@
 {
-      "name": "Fallen Robot",
+      "name": "Elise Robot",
       "description": "Telegram Group Management Bot.",
-      "logo": "https://telegra.ph/file/72e135da30a1a349f2844.jpg",
+      "logo": "https://te.legra.ph/file/4bd77f0b39cbf640ce685.jpg",
       "keywords": [
          "telegram",
          "sexy",
@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/crispy-spoon/MissBonitaBot",
+   "repository": "https://github.com/PhoenixGamerz/MissEliseBot",
    "addons": [
       {
          "options": {
@@ -141,7 +141,7 @@
       "DONATION_LINK": {
          "description": "Link where you would like to receive donations. If you are a noob, better leave it linking to Anonymous",
          "required": false,
-         "value": "https://t.me/anonymous_was_bot"
+         "value": "https://t.me/Ashmit4029"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
