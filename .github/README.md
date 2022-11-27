@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 MISS ELISE ROBOT 」──
+    ──「 ᴍɪss ᴇʟɪsᴇ ʀᴏʙᴏᴛ 」──
 </h2>
 
 <p align="center">
